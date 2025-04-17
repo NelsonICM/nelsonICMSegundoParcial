@@ -1,1 +1,2 @@
-Proyecto Segundo Parcial
+PROYECTO DEL SEGUNDO PARCIAL
+Programación para Internet SIS3410
